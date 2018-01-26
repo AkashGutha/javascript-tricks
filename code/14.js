@@ -1,0 +1,10 @@
+[1] === 10    // is false
+[1] ==  10    // is true
+'1' ==  10    // is true
+'1' === 10    // is false
+[] ==  0      // is true
+[] === 0      // is false
+'' ==  false  // is true
+'' === false  // is false 
+'' ==  true   // is false
+'' === true   // is false
