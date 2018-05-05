@@ -1,3 +1,3 @@
-# javascript-tricks
+# JavaScript-tricks
 
-Collection of javascript tricks and code shots for my twitter thread
+Collection of JavaScript tricks and code shots for my twitter thread
